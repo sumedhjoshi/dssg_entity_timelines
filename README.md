@@ -1,5 +1,5 @@
 # dssg_timelines
-Create timeline plots given a primary key ID and a list of tables to query.
+Create month-by-month timeline plots given a primary key ID and a list of tables to query.
 
 ## Contents
 
